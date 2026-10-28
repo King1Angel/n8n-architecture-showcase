@@ -140,4 +140,6 @@ flowchart TD
 
 **Ing. Angel Peña**  
 *AI Engineer & Automation Architect*  
-* GitHub: [@King1Angel](https://github.com/King1Angel)
+* **CV Web 2026:** [https://king1angel.github.io/ANGEL-CV2026/](https://king1angel.github.io/ANGEL-CV2026/)
+* **GitHub:** [@King1Angel](https://github.com/King1Angel)
+* **Showcase Interactivo:** [https://king1angel.github.io/n8n-architecture-showcase/](https://king1angel.github.io/n8n-architecture-showcase/)
